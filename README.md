@@ -1,3 +1,5 @@
+> A beginner-friendly, time-based analysis of U.S. import trends before and after a tariff implementation.
+
 # Trade Policy Shock: Pre- and Post-Tariff Import Patterns
 
 ## Overview
