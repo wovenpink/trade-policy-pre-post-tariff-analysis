@@ -1,9 +1,11 @@
 # Trade Policy Shock: Pre- and Post-Tariff Import Patterns
 
 ## Overview
-This project analyzes U.S. monthly import patterns around a defined tariff implementation date. The purpose is to organize and visualize observed import behavior before and after the cutoff using a consistent framework. The analysis is descriptive and does not attribute causality or evaluate policy effectiveness.
+This project looks at U.S. import data over time to see how import patterns change before and after a specific tariff date. The goal is not to prove whether tariffs “worked,” but to organize the data in a clear way so changes in trends and levels can be easily seen.
 
-The workflow begins with a China-focused view and then applies the same segmentation and normalization approach to additional major U.S. trading partners (Vietnam, Mexico, and Canada) for comparison context.
+The analysis starts by focusing on China, using monthly import values split into pre-tariff and post-tariff periods. Once that structure is established, the same approach is applied to other major U.S. trading partners (Vietnam, Mexico, and Canada) to provide additional context.
+
+This project is meant as a learning exercise in time-based data analysis, normalization, and visual comparison, using real-world trade data.
 
 ---
 
